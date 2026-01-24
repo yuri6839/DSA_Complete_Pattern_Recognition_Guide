@@ -1,26 +1,34 @@
-<div align="center">
-
 # 🔥 DSA Pattern Recognition Master Repository
 
-### *Identify Pattern → Choose Data Structure → Predict Complexity → Solve*
+> **Identify Pattern → Choose Data Structure → Predict Complexity → Solve**
 
 ---
 
-🚀 **A Senior-Level, Interview-Ready Guide to Mastering Data Structures & Algorithms**  
-Built with **Google L5+ engineering rigor**, focusing on **pattern recognition, trade-offs, invariants, and complexity analysis**.
+🚀 **A Senior-Level, Interview-Ready Guide to Data Structures & Algorithms**  
+Designed with **Google L5+ engineering rigor**, this repository focuses on **pattern recognition, trade-offs, invariants, and complexity analysis** — not rote memorization.
 
 ---
 
-### 🧠 What This Repository Teaches
+## 🔗 Learn With Me
 
-📌 How to identify the **right DSA pattern** by reading the problem  
-📌 How to **defend your approach** with trade-offs and failure cases  
-📌 How to **predict time & space complexity before coding**  
-📌 How to reason like a **Senior / Staff Engineer in interviews**
+[![YouTube](https://www.youtube.com/@freebirdscrew2023)](YOUR_YOUTUBE_LINK)
+[![Medium](https://medium.com/@simranjeetsingh1497)](YOUR_MEDIUM_LINK)
+[![LinkedIn](https://www.linkedin.com/in/simranjeet97/)](YOUR_LINKEDIN_LINK)
+
 
 ---
 
-### 🗺️ Covered Topics
+## 🧠 What This Repository Teaches
+
+- 🔍 How to **identify the correct DSA pattern** just by reading the problem  
+- 🧩 How to **choose the right data structure** based on constraints  
+- ⚖️ How to **defend your approach** using alternatives & trade-offs  
+- ⏱️ How to **predict time & space complexity before coding**  
+- 🗣️ How to **communicate solutions like a Senior / Staff Engineer**
+
+---
+
+## 🗺️ Covered Topics
 
 `Sliding Window` • `Two Pointers` • `Prefix Sum` • `Binary Search` • `Dynamic Programming`  
 `Greedy` • `Backtracking` • `Stacks & Queues` • `Trees` • `Graphs` • `Union-Find`  
@@ -28,27 +36,26 @@ Built with **Google L5+ engineering rigor**, focusing on **pattern recognition, 
 
 ---
 
-### 🎯 Who This Is For
+## 🎯 Who This Is For
 
-✅ Engineers preparing for **FAANG / Big Tech interviews**  
-✅ Developers aiming for **L5 (Senior) and above**  
-✅ Anyone who wants to **stop memorizing solutions and start recognizing patterns**
-
----
-
-### 🧪 How to Use This Repository
-
-1️⃣ Read the **pattern recognition signals**  
-2️⃣ Study **alternatives & trade-offs**  
-3️⃣ Understand **why other approaches fail**  
-4️⃣ Apply to **real interview problems**
+- ✅ Engineers preparing for **FAANG / Big Tech interviews**
+- ✅ Developers targeting **L5 (Senior) and above**
+- ✅ Anyone who wants to **think in patterns instead of memorizing solutions**
 
 ---
 
-⭐ **If this repo helps you think better — star it.  
-It’s built to make you dangerous in interviews.**
+## 🧪 How to Use This Repository
 
-</div>
+1. Read the **pattern recognition signals**
+2. Study **alternatives & trade-offs**
+3. Understand **why other approaches fail**
+4. Apply the reasoning to **real interview problems**
+
+---
+
+⭐ **If this repository helps you think better, consider starring it.**  
+This is built to make you **dangerous in technical interviews**.
+
 
 ## 0️⃣ TOP SOFTWARE ENGINEER OR MACHINE LEARNING ENGINEER MINDSET (READ THIS FIRST)
 
