@@ -5,7 +5,7 @@
 ---
 
 🚀 **A Senior-Level, Interview-Ready Guide to Data Structures & Algorithms**  
-Designed with **Google L5+ engineering rigor**, this repository focuses on **pattern recognition, trade-offs, invariants, and complexity analysis** — not rote memorization.
+Designed with **Top Egnineering Knowledge from Books rigor**, this repository focuses on **pattern recognition, trade-offs, invariants, and complexity analysis** — not rote memorization.
 
 ---
 
@@ -31,7 +31,7 @@ Designed with **Google L5+ engineering rigor**, this repository focuses on **pat
 
 `Sliding Window` • `Two Pointers` • `Prefix Sum` • `Binary Search` • `Dynamic Programming`  
 `Greedy` • `Backtracking` • `Stacks & Queues` • `Trees` • `Graphs` • `Union-Find`  
-`Heaps` • `Tries` • `Composite Patterns` • `Google-Style Interview Reasoning`
+`Heaps` • `Tries` • `Composite Patterns` • `MNC-Style Interview Reasoning`
 
 ---
 
