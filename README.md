@@ -11,10 +11,9 @@ Designed with **Google L5+ engineering rigor**, this repository focuses on **pat
 
 ## 🔗 Learn With Me
 
-[![YouTube](https://www.youtube.com/@freebirdscrew2023)](YOUR_YOUTUBE_LINK)
-[![Medium](https://medium.com/@simranjeetsingh1497)](YOUR_MEDIUM_LINK)
-[![LinkedIn](https://www.linkedin.com/in/simranjeet97/)](YOUR_LINKEDIN_LINK)
-
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@freebirdscrew2023)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@simranjeetsingh1497)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simranjeet97/)
 
 ---
 
